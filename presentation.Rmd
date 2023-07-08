@@ -1,0 +1,21 @@
+---
+title: "Data/Output Visualization and Web App"
+author: Luigi Acto
+date: 9 Luglio 2023
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Agenda
+
+- reactable
+- kableExtra
+- gt
+- Shiny App
+
+
+
