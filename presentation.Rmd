@@ -1,6 +1,6 @@
 ---
 title: "Data/Output Visualization and Web App"
-author: Luigi Acto
+author: Luigi Aceto
 date: 9 Luglio 2023
 output: ioslides_presentation
 ---
@@ -16,6 +16,12 @@ knitr::opts_chunk$set(echo = FALSE)
 - kableExtra
 - gt
 - Shiny App
+
+## Tools and scripts
+
+- https://github.com/laceto/master-data-science---class---2023-07-08
+- https://github.com/laceto/master-data-science---class---2022-07-09
+
 
 
 
